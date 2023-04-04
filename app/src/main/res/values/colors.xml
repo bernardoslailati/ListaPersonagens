@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_blue_200">#FFC5EBFB</color>
+    <color name="light_blue_500">#FF93DEFF</color>
+    <color name="dark_gray_700">#FF323643</color>
+    <color name="dark_gray_200">#FF606470</color>
+    <color name="purple_700">#FF56679E</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_gray">#FFECECEC</color>
+
+    <color name="dark_gray_transparent">#44323643</color>
+
+    <color name="red_disney">#FFFB3E60</color>
+    <color name="blue_ricky_and_morty">#FF5CADBF</color>
+</resources>

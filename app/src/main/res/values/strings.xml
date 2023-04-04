@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lista de Personagens</string>
+    <string name="characters_type_image_content_description">Imagem dos Tipos de Personagens</string>
+    <string name="character_image_content_description">Imagem do Personagem</string>
+    <string name="character_type_disney">Disney</string>
+    <string name="character_type_ricky_and_morty">Ricky And Morty</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="login">Entrar</string>
+</resources>
