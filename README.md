@@ -1,4 +1,4 @@
-# ListaPersonagens
+# Lista de Personagens
 
 Descrição: Aplicativo base para a realização dos exercícios avaliativos do módulo MB-KT-007.
 
