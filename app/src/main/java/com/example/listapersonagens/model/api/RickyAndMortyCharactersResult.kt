@@ -1,6 +1,6 @@
 package com.example.listapersonagens.model.api
 
-data class RickyAndMortyCharacters(
+data class RickyAndMortyCharactersResult(
     val results: List<RickyAndMortyCharacter>
 )
 
