@@ -54,3 +54,14 @@ Obs: os padrões listados como opção de escolha foram aqueles apresentados em 
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1356/1*X-oALeV_4OjExuhsHIv2Xw.png" />
 </p>
+
+
+### Exercício 04: Arquitetura
+
+Implemente a modularização por camadas  nesse projeto, baseado nos conceitos de arquitetura limpa (data, domain e presentation).
+
+Feito isso, escolha um dos três padrões de arquitetura de interface para aplicar no projeto:
+
+- MVC
+- MVP
+- MVVM
