@@ -65,7 +65,7 @@ Feito isso, escolha um dos três padrões de arquitetura de interface para aplic
 - MVC
 - MVP
 - MVVM
-- 
+
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:640/0*1ZrS8t3HvPzRAuqg.png" />
 </p>
